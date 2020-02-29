@@ -2,7 +2,7 @@
 title_url: "#"
 subtitle: Rider driven realtime maps highlighting the safest most bike friendly destinations
 actions:
-- label: Download
+- label: Stay in Touch
   icon: fa-download
   url: "/elements"
   is_primary: true
